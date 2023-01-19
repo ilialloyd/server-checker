@@ -16,4 +16,4 @@
 
 - Backend : Java Spring-Boot
 
-Worked on  Backend-SpringBoot,MySQL, Front - Angular14
+Worked on  Backend-SpringBoot,REST, Front - Angular14
