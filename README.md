@@ -16,4 +16,4 @@
 
 - Backend : Java Spring-Boot
 
-Worked on  Backend-IntelliJ, Front - VS Code
+Worked on  Backend-SpringBoot,MySQL, Front - Angular14
